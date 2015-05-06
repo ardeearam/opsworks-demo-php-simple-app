@@ -15,7 +15,7 @@
     <body>
         <div class="container">
             <div class="hero-unit">
-                <img src="https://yt3.ggpht.com/-Md1RmulAfEA/AAAAAAAAAAI/AAAAAAAAAAA/payB7tHZjX4/s900-c-k-no/photo.jpg" />
+                <img style="width: 350px;" src="https://yt3.ggpht.com/-Md1RmulAfEA/AAAAAAAAAAI/AAAAAAAAAAA/payB7tHZjX4/s900-c-k-no/photo.jpg" />
                 <h1>Simple PHP App</h1>
                 <h2>Congratulations!</h2>
                 <p>Your PHP application is now running on the host &ldquo;<?php echo gethostname(); ?>&rdquo; in your own dedicated environment in the AWS&nbsp;Cloud.</p>
